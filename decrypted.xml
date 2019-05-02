@@ -1,0 +1,9 @@
+<root>
+	<book>
+		<auth_name>J.K</auth_name>
+		<release>12th dec</release>
+	</book>
+	<buyer>
+		<name>sachin</name>
+	</buyer>		
+</root>
