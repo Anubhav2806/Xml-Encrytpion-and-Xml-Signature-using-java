@@ -20,3 +20,5 @@ java -cp <path to Xml-Encryption-and-Xml-Signature-using-Java> signme
 Input file: bookstore.xml
 Output file: Output will be displayed on screen after compilation is done and program is executed
              Refer Signature_Output.png for output
+![alt text](https://github.com/Anubhav2806/Xml-Encrytpion-and-Xml-Signature-using-java/blob/master/Signature_output.png)
+
